@@ -1,7 +1,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokki97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://velog.io/@byeongju/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="mailto:bjuuuu98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<a href="mailto:skaksdl1238@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **Byeongju-Kong/Byeongju-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
